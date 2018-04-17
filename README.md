@@ -5,7 +5,7 @@
 Citi Bike is New York City's largest bike sharing system. This Assignment is about the network of bicycle rental
  stations intended for point-to-point transportation.
 
-##The Data ##
+# The Data 
 
 Citi published Citi Bike Trip Histories - downloadable files of Citi Bike trip data. I used the Citi Bike data 
 for the whole year of 2017 (approximately 1 million observations). The data includes:
@@ -25,7 +25,7 @@ Year of Birth
 I end up marging all the data file for each months of 2017 and cleaned the null data before using in the Tableau.
 
 
-##Observation ##
+# Observation 
 
 The number of famale rider is significantly lower than male rider. The most popular age for biking is about 20 years old!
 The most demanding time to ride during weekday is about 8:00 AM in the morning and 5:00 to 6:00 PM in the afternoon. 
