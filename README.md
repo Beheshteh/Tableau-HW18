@@ -10,9 +10,9 @@ Citi Bike is New York City's largest bike sharing system. This Assignment is abo
 Citi published Citi Bike Trip Histories - downloadable files of Citi Bike trip data. I used the Citi Bike data 
 for the whole year of 2017 (approximately 1 million observations). The data includes:
 
-## Trip Duration (in seconds)
-# Start Time and Date
-# Stop Time and Date
+Trip Duration (in seconds)
+Start Time and Date
+Stop Time and Date
 Start Station Name
 End Station Name
 Station ID
